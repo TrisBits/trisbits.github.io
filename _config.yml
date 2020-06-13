@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
-logo: /assets/images/logo.png
+github:
+  repository_url: https://github.com/TrisBits?tab=repositories
+title: trisbits.dev
+logo: /assets/images/logo_website.png
